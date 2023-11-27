@@ -3,6 +3,9 @@
     <h1>Register</h1>
     <h1><b>Please fill in this form to create an account.<b></h1>
     <hr>
+    <label for="enter your name"><b>Enter your name</b></label>
+    <input type="text" placeholder="Enter your name" name="name" id="name" required>
+
     <br>
     <label for="new email"><b>New Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
