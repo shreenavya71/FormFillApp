@@ -5,6 +5,10 @@
     <hr>
     <label for="enter your name"><b>Enter your name</b></label>
     <input type="text" placeholder="Enter your name" name="name" id="name" required>
+    <br>	
+    <label for="enter your wifename"><b>Enter your wifename</b></label>
+    <input type="text" placeholder="Enter your wifename" name="wifename" id="wifename" required>
+
 
     <br>
     <label for="new email"><b>New Email</b></label>
