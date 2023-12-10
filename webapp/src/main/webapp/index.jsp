@@ -8,7 +8,9 @@
     <br>	
     <label for="enter your wifename"><b>Enter your wifename</b></label>
     <input type="text" placeholder="Enter your wifename" name="wifename" id="wifename" required>
-
+    <br>
+    <label for="enter your son name"><b>Enter your sonname</b></label>
+    <input type="text" placeholder="Enter your sonname" name="sonname" id="sonname" required>
 
     <br>
     <label for="new email"><b>New Email</b></label>
